@@ -51,10 +51,10 @@ Whether you're a defense contractor preparing for a CMMC Level 2 assessment, an 
 
 Key Defense Federal Acquisition Regulation Supplement clauses that drive CMMC:
 
-- **DFARS 252.204-7012** - Safeguarding Covered Defense Information and Cyber Incident Reporting. The foundational clause requiring NIST 800-171 compliance.
-- **DFARS 252.204-7019** - Notice of NIST SP 800-171 DoD Assessment Requirements. Requires self-assessment scores in SPRS.
-- **DFARS 252.204-7020** - NIST SP 800-171 DoD Assessment Requirements. Governs Medium and High assessments by DIBCAC.
-- **DFARS 252.204-7021** - Cybersecurity Maturity Model Certification Requirements. The CMMC clause itself.
+- [DFARS 252.204-7012](https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting) - Safeguarding Covered Defense Information and Cyber Incident Reporting. The foundational clause requiring NIST 800-171 compliance.
+- [DFARS 252.204-7019](https://www.acquisition.gov/dfars/252.204-7019-notice-nist-sp-800-171-dod-assessment-requirements) - Notice of NIST SP 800-171 DoD Assessment Requirements. Requires self-assessment scores in SPRS.
+- [DFARS 252.204-7020](https://www.acquisition.gov/dfars/252.204-7020-nist-sp-800-171-dod-assessment-requirements) - NIST SP 800-171 DoD Assessment Requirements. Governs Medium and High assessments by DIBCAC.
+- [DFARS 252.204-7021](https://www.acquisition.gov/dfars/252.204-7021-cybersecurity-maturity-model-certification-requirements) - Cybersecurity Maturity Model Certification Requirements. The CMMC clause itself.
 - [SPRS (Supplier Performance Risk System)](https://www.sprs.csd.disa.mil/) - Where contractors submit their NIST 800-171 self-assessment scores.
 
 ## Assessment & Certification
