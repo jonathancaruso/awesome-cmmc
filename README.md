@@ -61,8 +61,10 @@ Key Defense Federal Acquisition Regulation Supplement clauses that drive CMMC:
 
 - [Cyber AB Marketplace](https://cyberab.org/Marketplace) - Find authorized C3PAOs, Registered Practitioners (RPs), and training providers.
 - [DIBCAC (Defense Industrial Base Cybersecurity Assessment Center)](https://www.dcma.mil/DIBCAC/) - Conducts Medium and High assessments of contractor cybersecurity.
-- [CMMC Assessment Guide (Level 2)](https://dodcio.defense.gov/CMMC/Documentation/) - Official assessment procedures for Level 2.
+- [CMMC Assessment Guide Level 2 (PDF)](https://dodcio.defense.gov/Portals/0/Documents/CMMC/AssessmentGuideL2.pdf) - Official assessment procedures and objectives for Level 2.
 - [DoD Assessment Methodology](https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf) - Scoring methodology for NIST 800-171 self-assessments (Basic, Medium, High).
+- [DIBCAC Presentation - Leveraging DCMA Capabilities (PDF)](https://www.dau.edu/sites/default/files/2024-08/Leveraging_DCMA_Capabilities_DIBCAC_DAU%20Presentation_8_13_24.pdf) - DAU presentation on DIBCAC's "over the shoulder" assessment methodology and CMMC integration.
+- [NDISAC CyberAssist - CMMC Resources](https://ndisac.org/dibscc/cyberassist/cybersecurity-maturity-model-certification/) - National Defense ISAC resources and links for DIB cybersecurity and CMMC.
 
 ## Tools - Open Source
 
