@@ -28,6 +28,7 @@ Whether you're a defense contractor preparing for a CMMC Level 2 assessment, an 
 - [DoD CIO CMMC Homepage](https://dodcio.defense.gov/CMMC/) - The official DoD CMMC program page with model documentation, assessment guides, and scoping guidance.
 - [CMMC Resources & Downloads](https://dodcio.defense.gov/cmmc/Resources-Documentation/) - Downloadable resources including assessment guides, scoping guides, and the CMMC model itself.
 - [About CMMC](https://dodcio.defense.gov/cmmc/About/) - Overview of the CMMC program and its goals.
+- [CMMC FAQ (PDF)](https://dodcio.defense.gov/Portals/0/Documents/CMMC/CMMC-FAQsv3.pdf) - Official frequently asked questions from DoD CIO.
 - [Office of Industrial Base Policy - CMMC 2.0](https://business.defense.gov/Programs/Cyber-Security-Resources/CMMC-20/) - CMMC 2.0 details from the Office of Industrial Base Policy.
 - [The Cyber AB](https://cyberab.org/) - The official CMMC accreditation body (formerly CMMC-AB). Authorizes C3PAOs and certifies assessors.
 - [NIST SP 800-171 Rev 2](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final) - Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations.
