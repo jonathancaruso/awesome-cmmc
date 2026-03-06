@@ -101,11 +101,11 @@ Key Defense Federal Acquisition Regulation Supplement clauses that drive CMMC:
 
 ### Certification Levels (The Cyber AB)
 
-- **CCP (Certified CMMC Professional)** - Entry-level certification for individuals supporting CMMC.
-- **CCA (Certified CMMC Assessor)** - Authorized to conduct CMMC Level 2 assessments as part of a C3PAO team.
-- **C3PAO (CMMC Third-Party Assessment Organization)** - Organizations authorized to conduct official CMMC assessments.
-- **RP (Registered Practitioner)** - Individuals registered with The Cyber AB to provide CMMC consulting.
-- **RPO (Registered Provider Organization)** - Organizations registered to deliver CMMC consulting services.
+- [CCP (Certified CMMC Professional)](https://cyberab.org/CCP-Exam-Information) - Entry-level certification for individuals supporting CMMC.
+- [CCA (Certified CMMC Assessor)](https://cyberab.org/CMMC-Ecosystem/Ecosystem-roles/Assessors) - Authorized to conduct CMMC Level 2 assessments as part of a C3PAO team.
+- [C3PAO (CMMC Third-Party Assessment Organization)](https://cyberab.org/CMMC-Ecosystem/Ecosystem-roles) - Organizations authorized to conduct official CMMC assessments.
+- [RP (Registered Practitioner)](https://cyberab.org/CMMC-Ecosystem/Ecosystem-roles) - Individuals registered with The Cyber AB to provide CMMC consulting.
+- [RPO (Registered Provider Organization)](https://cyberab.org/CMMC-Ecosystem/Ecosystem-roles) - Organizations registered to deliver CMMC consulting services.
 
 ### Training Providers
 
