@@ -25,8 +25,7 @@ Whether you're a defense contractor preparing for a CMMC Level 2 assessment, an 
 
 ## Official Resources
 
-- [DoD CIO CMMC Homepage](https://dodcio.defense.gov/CMMC/) - The official DoD CMMC program page.
-- [CMMC Model Documentation](https://dodcio.defense.gov/CMMC/Documentation/) - Official model overview, assessment guides, and scoping guidance.
+- [DoD CIO CMMC Homepage](https://dodcio.defense.gov/CMMC/) - The official DoD CMMC program page with model documentation, assessment guides, and scoping guidance.
 - [CMMC Resources & Downloads](https://dodcio.defense.gov/cmmc/Resources-Documentation/) - Downloadable resources including assessment guides, scoping guides, and the CMMC model itself.
 - [About CMMC](https://dodcio.defense.gov/cmmc/About/) - Overview of the CMMC program and its goals.
 - [Office of Industrial Base Policy - CMMC 2.0](https://business.defense.gov/Programs/Cyber-Security-Resources/CMMC-20/) - CMMC 2.0 details from the Office of Industrial Base Policy.
