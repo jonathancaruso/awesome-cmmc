@@ -85,6 +85,7 @@ Key Defense Federal Acquisition Regulation Supplement clauses that drive CMMC:
 - [Coalfire](https://www.coalfire.com/) - Cybersecurity advisory and assessment firm, authorized C3PAO.
 - [Schellman](https://www.schellman.com/) - Assessment firm offering CMMC, FedRAMP, and SOC services.
 - [Fortra (Tripwire)](https://www.fortra.com/) - Security and compliance tools including configuration assessment and file integrity monitoring.
+- [GovCon Software Index](https://govconsoftwareindex.com/cmmc-level-2-tools) - Free, independent directory of CMMC Level 2 tools for small defense contractors, with each published price linked to its source page and check date.
 - [Totem Technologies](https://www.totem.tech/) - CMMC-focused compliance platform designed for small DIB contractors.
 - [PreVeil](https://www.preveil.com/) - End-to-end encrypted email and file sharing purpose-built for CMMC/CUI compliance.
 - [Summit 7](https://www.summit7.us/) - Microsoft GCC High and CMMC compliance services.
