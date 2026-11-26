@@ -111,6 +111,7 @@ Key Defense Federal Acquisition Regulation Supplement clauses that drive CMMC:
 
 - [Cyber AB Marketplace - Training](https://cyberab.org/Marketplace) - Official list of Licensed Training Providers (LTPs) and Licensed Partner Publishers (LPPs).
 - [CyberSecInvestments CMMC Training Videos](https://cybersecinvestments.com/cmmc-video-training/) - Free video training covering CMMC assessment preparation.
+- [RansomLeak CMMC Level 2 in Practice](https://ransomleak.com/exercises/cmmc-in-practice/) - Free interactive exercise on answering a CMMC assessor from actual practice rather than policy wording, including CUI marking and honest gap reporting.
 
 ## Books
 
